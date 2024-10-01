@@ -1,6 +1,6 @@
 {
   "functions": {
-    "api/users/**/*.php": {
+    "api/**/*.php": {
       "maxDuration": 30
     }
   },
